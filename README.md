@@ -14,7 +14,11 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
-I am a **Software Engineer** and a passionate **Flutter Developer** based in **Istanbul, Türkiye**. With a strong background in **UI/UX Design**, I don't just write code; I craft intuitive and visually appealing mobile experiences. 
+Flutter Developer with a **Software Engineering degree** and hands-on experience building mobile apps with **API integration**, **Firebase**, **Supabase**, **Google Maps**, and state management (**Provider, Bloc, Riverpod**). 
+
+Skilled in writing **clean, maintainable code** and implementing intuitive user interfaces, with good knowledge of **UI/UX design principles**. 
+
+🌟 Earned **100+ 5/5 client ratings** on freelance platforms as a designer.
 
 * 🔭 I’m currently working on **[Electrolink App](https://github.com/2EMarket/electrolink-app)**.
 * 📱 I specialize in building scalable apps using **Clean Architecture**.
