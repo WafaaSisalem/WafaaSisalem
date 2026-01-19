@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Wafaa%20Sisalem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20%7C%20Flutter%20Specialist&descAlignY=55&descAlign=50" alt="Wafaa Sisalem Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Wafaa%20Sisalem&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20(Flutter)%20%7C%20UX-Centered%20Apps&descAlignY=55&descAlign=50" alt="Wafaa Sisalem Header"/>
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@ Skilled in writing **clean, maintainable code** and implementing intuitive user 
 
 > An inspiration generator app integrating AI for translations and beautiful visual content.
 >
-> * **Tech Stack:** `Flutter` `Riverpod` `Clean Architecture` `Gemini AI` `SQFLite`
+> * **Tech Stack:** `Flutter` `Riverpod` `Gemini AI` `SQFLite`
 > * **Key Features:** Daily quotes, AI Translation (Arabic), Favorites system, Lottie Animations.
 
 <br>
