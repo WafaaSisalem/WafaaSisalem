@@ -71,8 +71,19 @@ Skilled in writing **clean, maintainable code** and implementing intuitive user 
 ---
 
 ### 🚀 Featured Projects
+#### 1. [Smart Torath App](https://github.com/WYDevTeam/SMART-TORATH)
+<a href="https://github.com/WYDevTeam/SMART-TORATH">
+ <img width="1200" height="500" alt="smart torath" src="https://github.com/user-attachments/assets/2c969494-42c5-40d7-a7f1-5118d7ebd52f" />
+</a>
 
-#### 1. [OnceInMind Journal App](https://github.com/WafaaSisalem/once-in-mind)
+> Cultural preservation app for Palestinian embroidery
+>
+> * **Tech Stack:** `Flutter` `Bloc` `Firebase Auth/Firestore` `Supabase Storage` `3D Model Viewer`
+> * **Key Features:** Adaptive theme, bilingual UX, interactive 3D visualization.
+
+<br>
+
+#### 2. [OnceInMind Journal App](https://github.com/WafaaSisalem/once-in-mind)
 <a href="https://github.com/WafaaSisalem/once-in-mind">
   <img src="https://github.com/user-attachments/assets/f4486b05-c708-4c40-89e7-42217ca0b507" width="100%" alt="OnceInMind Banner" />
 </a>
@@ -84,7 +95,7 @@ Skilled in writing **clean, maintainable code** and implementing intuitive user 
 
 <br>
 
-#### 2. [Quoty for Today](https://github.com/WafaaSisalem/random-quote)
+#### 3. [Quoty for Today](https://github.com/WafaaSisalem/random-quote)
 <a href="https://github.com/WafaaSisalem/random-quote">
   <img src="https://drive.google.com/uc?id=1X-q0PikmF0Ttux2X77Gu43zanDHD-WaI" width="100%" alt="Quoty App Banner" />
 </a>
