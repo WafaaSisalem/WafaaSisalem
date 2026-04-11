@@ -5,7 +5,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wafaa%20Sisalem-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wafaasisalem/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-FF5722?style=for-the-badge&logo=google-chrome)](https://wafaasisalem.github.io/personal_site/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-FF5722?style=for-the-badge&logo=google-chrome)](https://wafaa-sisalem.lovable.app/)
   [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:wafaaiyadsisalem@gmail.com)
 
 </div>
