@@ -83,7 +83,18 @@ Recognized by Replit for outstanding real-world impact. The team had already sec
 ---
 
 ### 🚀 Featured Projects
-#### 1. [Smart Torath App](https://github.com/WYDevTeam/SMART-TORATH)
+#### 1. [Mudawama](https://github.com/WafaaSisalem/mudawama)
+<a href="https://github.com/WafaaSisalem/mudawama">
+ <img width="1024" height="500" alt="mudawama" src="https://github.com/user-attachments/assets/c1fd101e-9dde-47a2-89de-f535e393053f" />
+</a>
+
+> Your daily Islamic habit tracker — build consistent worship routines and stay committed to your faith.
+>
+> * **Tech Stack:** `Flutter` `Bloc` `Supabase` `SQLite` `Go Router` `get_it`
+> * **Key Features:** Built-in worship library (Prayer, Quran, Adhkar & more), morning/evening reminders, history & stats, offline-first with cross-device sync.
+> * 🚀 **Published:** Available on Google Play (currently under 14-day closed testing review)
+
+#### 2. [Smart Torath App](https://github.com/WYDevTeam/SMART-TORATH)
 <a href="https://github.com/WYDevTeam/SMART-TORATH">
  <img width="1200" height="500" alt="smart torath" src="https://github.com/user-attachments/assets/2c969494-42c5-40d7-a7f1-5118d7ebd52f" />
 </a>
@@ -95,7 +106,7 @@ Recognized by Replit for outstanding real-world impact. The team had already sec
 
 <br>
 
-#### 2. [OnceInMind Journal App](https://github.com/WafaaSisalem/once-in-mind)
+#### 3. [OnceInMind Journal App](https://github.com/WafaaSisalem/once-in-mind)
 <a href="https://github.com/WafaaSisalem/once-in-mind">
   <img src="https://github.com/user-attachments/assets/f4486b05-c708-4c40-89e7-42217ca0b507" width="100%" alt="OnceInMind Banner" />
 </a>
@@ -107,7 +118,7 @@ Recognized by Replit for outstanding real-world impact. The team had already sec
 
 <br>
 
-#### 3. [Quoty for Today](https://github.com/WafaaSisalem/random-quote)
+#### 4. [Quoty for Today](https://github.com/WafaaSisalem/random-quote)
 <a href="https://github.com/WafaaSisalem/random-quote">
   <img src="https://drive.google.com/uc?id=1X-q0PikmF0Ttux2X77Gu43zanDHD-WaI" width="100%" alt="Quoty App Banner" />
 </a>
@@ -119,7 +130,7 @@ Recognized by Replit for outstanding real-world impact. The team had already sec
 
 <br>
 
-#### 4. [Raqib — راقب](https://github.com/WYDevTeam/raqib-app)
+#### 5. [Raqib — راقب](https://github.com/WYDevTeam/raqib-app)
 <img width="1810" height="869" alt="banner" src="https://github.com/user-attachments/assets/6f1f25e7-d1c4-4c96-8ea5-531b0f7e589d" />
 
 > 🏆 Built at **[Salam Hack 2026](https://salamhack.com)** — Fintech Hackathon
