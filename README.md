@@ -27,6 +27,18 @@ Skilled in writing **clean, maintainable code** and implementing intuitive user 
 
 ---
 
+### 🏆 Hackathons & Achievements
+
+**🥇 Salam Hack 2026** — Fintech Hackathon
+Built **[Raqib (راقب)](https://github.com/WYDevTeam/raqib-app)** — an Arabic-first personal finance app with AI-powered Excel import and live investment tracking.
+
+<br>
+
+**⭐ Ibtikar × Replit Build Week** — Honorable Mention
+65 teams → top 20 → top 10 finalists → Demo Day pitch in front of 5 judges.
+Built **Insaf** — an intelligent aid distribution system for Gaza that matches aid packages to families' actual needs, prevents duplicate collection, and operates fully offline in the field.
+Recognized by Replit for outstanding real-world impact. The team had already secured a real client before Demo Day.
+
 ### 🛠 Tech Stack & Tools
 
 <div align="center">
@@ -107,10 +119,22 @@ Skilled in writing **clean, maintainable code** and implementing intuitive user 
 
 <br>
 
+#### 4. [Raqib — راقب](https://github.com/WYDevTeam/raqib-app)
+<img width="1810" height="869" alt="banner" src="https://github.com/user-attachments/assets/6f1f25e7-d1c4-4c96-8ea5-531b0f7e589d" />
+
+> 🏆 Built at **[Salam Hack 2026](https://salamhack.com)** — Fintech Hackathon
+>
+> Arabic-first personal finance app for real net worth tracking. Fully offline, AI-powered data import, and live investment prices.
+>
+> * **Tech Stack:** `Flutter` `Bloc` `Hive` `Groq AI (Llama 3.1)` `metals.dev` `Binance API`
+> * **Key Features:** Net worth dashboard, AI Excel/CSV import, investments tracker, debts & amanah management, custom formula builder.
+
+<br>
+
 ### 📂 More Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Electrolink App](https://github.com/2EMarket/electrolink-app)** | 🚧 *Currently in Development* - A comprehensive mobile solution for market needs. | `Flutter` `Dart` |
+| **[Electrolink App](https://github.com/2EMarket/electrolink-app)** | - A comprehensive mobile solution for market needs. | `Flutter` `Dart` |
 | **Yalla Njoom** | Educational app for children to learn Arabic letters, numbers, and math operations with audio interaction. | `Education` `Interactive UI` |
 | **Chatty App** | A real-time messaging application with a unique UI style and secure profile management. | `Firebase Auth` `Firestore` |
