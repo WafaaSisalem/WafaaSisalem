@@ -20,7 +20,7 @@ Skilled in writing **clean, maintainable code** and implementing intuitive user 
 
 🌟 Earned **100+ 5/5 client ratings** on freelance platforms as a designer.
 
-* 🔭 I’m currently working on **[Electrolink App](https://github.com/2EMarket/electrolink-app)**.
+* 🔭 I’m currently working on **[Flutter KYC Verification Feature](https://github.com/WafaaSisalem/flutter_kyc_verification)**.
 * 📱 I specialize in building scalable apps using **Clean Architecture**.
 * 🎨 I have a keen eye for design (Pixel Perfect implementation).
 * 👯 I previously acted as a **Team Lead**, managing workflows and code reviews.
