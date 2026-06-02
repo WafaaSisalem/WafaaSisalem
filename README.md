@@ -83,7 +83,7 @@ Recognized by Replit for outstanding real-world impact. The team had already sec
 ---
 
 ### 🚀 Featured Projects
-#### 1. [Mudawama](https://github.com/WafaaSisalem/mudawama)
+#### 1. [Mudawama](https://play.google.com/store/apps/details?id=com.wafaa.mudawama)
 <a href="https://github.com/WafaaSisalem/mudawama">
  <img width="1024" height="500" alt="mudawama" src="https://github.com/user-attachments/assets/c1fd101e-9dde-47a2-89de-f535e393053f" />
 </a>
