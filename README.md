@@ -18,13 +18,6 @@ Flutter Developer with a **Software Engineering degree** and hands-on experience
 
 Skilled in writing **clean, maintainable code** and implementing intuitive user interfaces, with good knowledge of **UI/UX design principles**. 
 
-🌟 Earned **100+ 5/5 client ratings** on freelance platforms as a designer.
-
-* 🔭 I’m currently working on **[Flutter KYC Verification Feature](https://github.com/WafaaSisalem/flutter_kyc_verification)**.
-* 📱 I specialize in building scalable apps using **Clean Architecture**.
-* 🎨 I have a keen eye for design (Pixel Perfect implementation).
-* 👯 I previously acted as a **Team Lead**, managing workflows and code reviews.
-
 ---
 
 ### 🏆 Hackathons & Achievements
